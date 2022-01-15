@@ -1,6 +1,6 @@
 # just-University
-Readme file for a part of implementation(GP One ):
-Supervisor:Khaldoon Alzoubi.
+*Readme file for a part of implementation(GP One ):
+*Supervisor:Khaldoon Alzoubi.
 ![This is an image](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/126615401/original/48c4a467cb01d58c431daa402513c5209bbaec9d/help-you-with-everything-related-to-special-education-special-needs.jpg)
 # Textchat
 ---
@@ -35,9 +35,10 @@ In our project That requires to Create an App, we Plan to follow the below code 
 
 
 ## Feature Work
-
 our project help special needs people to connect to each other and connect with organisation
+
 ---
+
 
 ## Important code
 
