@@ -9,7 +9,7 @@
 In our project That requires to Create an App, we Plan to follow the below code and technologies:
 
 
-## Using Tech:
+## Using Tech we may use :
 
 * Java
 * Xml
