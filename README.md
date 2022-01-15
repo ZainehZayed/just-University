@@ -1,9 +1,13 @@
 # just-University
-Readme file for a part of implementation:
+Readme file for a part of implementation(GP One ):
+Supervisor:Khaldoon Alzoubi.
 # Textchat
 ---
 ### Android lightweight chating application with Maching learning ML-KIT
 ---
+### Abstract:
+![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Far.wikipedia.org%2Fwiki%2F%25D8%25A7%25D9%2584%25D8%25A7%25D8%25AD%25D8%25AA%25D9%258A%25D8%25A7%25D8%25AC%25D8%25A7%25D8%25AA_%25D8%25A7%25D9%2584%25D8%25AE%25D8%25A7%25D8%25B5%25D8%25A9&psig=AOvVaw0RwnzzxBByGUzBkfVtDL73&ust=1642346189594000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLDTwvmTtPUCFQAAAAAdAAAAABAD)
+
 ## Using Tech:
 
 * Java
@@ -214,7 +218,6 @@ private void sendNotifiaction(String receiver, final String username, final Stri
 
 
 
-[Back To The Top](#Textchat)
 ---
 
 Userlist(Firebase) with comparing phone contact:
@@ -268,3 +271,5 @@ Cursor=getActivity().getApplicationContext().getContentResolver().query(Contacts
         cursor.close();
 
 }
+
+[Back To The Top](#Textchat)
