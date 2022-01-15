@@ -4,7 +4,6 @@
 ![This is an image](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/126615401/original/48c4a467cb01d58c431daa402513c5209bbaec9d/help-you-with-everything-related-to-special-education-special-needs.jpg)
 # Just Like Me App
 ---
-### Android lightweight chating application with Maching learning ML-KIT
 ---
 ### Abstract:
 In our project That requires to Create an App, we Plan to follow the below code and technologies:
