@@ -13,7 +13,7 @@ Readme file for a part of implementation:
 * Retrofit,
 * Text Recognition with ML-KIT
 ---
-#### Watch Demo : https://youtu.be/S2gbnVanKDA
+#### Refrences : https://youtu.be/S2gbnVanKDA
 ---
 ## Features
 
