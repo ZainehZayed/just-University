@@ -17,7 +17,7 @@ Readme file for a part of implementation:
 ---
 ## Features
 
-* User can register with phone number
+* User can register with phone number------> in our project we will use ID number 
 * User can add personal info such name, profile image
 * User can see userlist who are using TextChat from his/her mobile contact
 * User can see who is online
@@ -30,8 +30,7 @@ Readme file for a part of implementation:
 
 ## Feature Work
 
-I will be  added voice recognization function and also  smart reply option by analyzing previous messages
-
+our project help special needs people to connect to each other and connect with organisation
 ---
 
 ## Important code
